@@ -10,7 +10,7 @@
 | 型号  | 数量 |
 | ------------- | ------------- |
 | Bowden鲍登气动接头  |  1  |
-| [PCB]([https://u.lceda.cn/account/user/projects/index/detail?project=a871a149509b401db58b9b3f4eb4606f&listType=all](https://oshwhub.com/woooooo/sherpa-mini-shuang-hao-cai-jian-ce))  | 1  |
+| [PCB](https://oshwhub.com/woooooo/sherpa-mini-shuang-hao-cai-jian-ce)| 1  |
 | M2X6mm自攻螺丝 | 2  |
 | 5.5mm钢珠 | 2  |
 
