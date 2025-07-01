@@ -1,6 +1,4 @@
 # 集成双耗材检测位的Sherpa mini挤出机
-
-
 [视频介绍](https://www.bilibili.com/video/BV1megXzKEaS/?share_source=copy_web&vd_source=684b9369c5f1a47552ffbf5cceab4d0c)
 
 结构件最好选择ABS耗材进行打印，墙4顶底4填充100%，需开启支撑
